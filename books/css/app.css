@@ -1,0 +1,18 @@
+body {
+	background-image: url('../img/back.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+h1#header {
+	/*color: white;*/
+	width: 100%;
+	background-color: #000000;
+
+}
+
+p.data {
+	color: white;
+	background-color: rgba(0,0,0,0.9);
+}
+
